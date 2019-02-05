@@ -2,13 +2,13 @@
 
 This was a small preparatory assignment done during a lab session in CSC8001 - Programming and Data Structures at Newcastle University. The program reads a text file and creates a separate file with a word count for the original text.
 
-# What I Learned
+## What I Learned
 
 * Basics of file input/output
 * Iterating through a file and extracting words from it
 * Determining unique words via a HashSet
 
-# Original README from project
+### Original README from project
 
 TITLE:
     Array Lists and Strings
